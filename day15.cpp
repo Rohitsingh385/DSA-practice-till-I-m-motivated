@@ -72,23 +72,3 @@ using namespace std;
 }*/
 
 
-// ############################## POINTERS
-
-/*int main(){
-	int n;
-	cin>>n;
-
-	int *aptr = &n;
-	cout<<n<<endl;// value of n
-	cout<<aptr<<endl; // address of n
-	cout<<*aptr<<endl; // value of n
-    
-    cout<<"upadted value of "<<n<<endl;
-	*aptr = 20;
-
-	cout<<*aptr;
-
-
-	return 0;
-
-}*/
