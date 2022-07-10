@@ -91,7 +91,7 @@ int main(){
 
 
 // #################### GCD USING INCLUSION/ ENCULSION
-
+/*
 int divisble(int a,int b){
 
 	while(b!=0){
@@ -108,4 +108,4 @@ int main(){
     cin>>a>>b;
 	cout<<divisble(a,b);
 
-}
+}*/
